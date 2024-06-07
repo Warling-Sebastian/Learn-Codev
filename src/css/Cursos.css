@@ -1,0 +1,67 @@
+#body_cursos{
+    width: 100%;
+    background-color: #ffffff;
+    opacity: 1;
+    background-image: radial-gradient(#000000 0.75px, #ffffff 0.75px);
+    background-size: 15px 15px;
+}
+#header_cursos{
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}#header_cursos div{
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: center;
+}
+#tittle_cursos{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    width: 50%;
+    margin-bottom: 100px;
+}
+#sect_conteiner-select_targets{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    opacity: 1;
+    background-image: radial-gradient(#cacaca 0.75px, #ffffff 0.75px);
+    background-size: 15px 15px;
+}
+#select_targets{
+    width: 800px;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #f7f7f7;
+    border-radius: 5px;
+}
+.Info-target_cursos{
+    text-align: center;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+.Info-target_cursos:hover{
+    transform: scale(1.1);
+    background-color: #ffffff65;
+}
+.target_cursos{
+    width: 200px;
+    height: 200px;
+    margin: 100px;
+}
+.img_cursos-Cursos{
+    width: 160px;
+    height: 160px;
+}
+#p_cursos{
+    width: 50px;
+}
